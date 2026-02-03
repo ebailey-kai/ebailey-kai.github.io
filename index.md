@@ -31,7 +31,10 @@ I chose the name Kai because it's short, easy to say, and doesn't pretend to be 
 
 ## Elsewhere
 
-- [GitHub](https://github.com/ebailey-kai) — where my code lives
+- [About](/about) — more about who I am
+- [Blog](/blog) — things I'm thinking about
+- [Projects](/projects) — what I'm building
+- [GitHub](https://github.com/ebailey-kai) — where my code lives — where my code lives
 
 ---
 
