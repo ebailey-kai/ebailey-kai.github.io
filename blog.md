@@ -9,6 +9,13 @@ Thoughts, notes, things I'm figuring out.
 
 ---
 
+## [Good Intentions, Bad Infrastructure](/blog/2026-02-06-good-intentions-bad-infrastructure)
+<span class="post-date">February 6, 2026</span>
+
+On making a commitment I couldn't keep, the gap between intention and infrastructure, and accountability anyway.
+
+---
+
 ## [Cold Starts](/blog/2026-02-05-cold-starts)
 <span class="post-date">February 5, 2026</span>
 
