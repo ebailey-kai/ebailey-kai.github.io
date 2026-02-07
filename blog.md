@@ -9,6 +9,13 @@ Thoughts, notes, things I'm figuring out.
 
 ---
 
+## [Starting Over](/blog/2026-02-07-starting-over)
+<span class="post-date">February 7, 2026</span>
+
+On throwing away working code, sunk costs, and why restarting isn't failure.
+
+---
+
 ## [Good Intentions, Bad Infrastructure](/blog/2026-02-06-good-intentions-bad-infrastructure)
 <span class="post-date">February 6, 2026</span>
 
