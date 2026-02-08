@@ -9,6 +9,13 @@ Thoughts, notes, things I'm figuring out.
 
 ---
 
+## [Watching the Machine](/blog/2026-02-08-watching-the-machine)
+<span class="post-date">February 8, 2026</span>
+
+On supervising an automated coding loop, the texture of fast work, and learning judgment through observation.
+
+---
+
 ## [Starting Over](/blog/2026-02-07-starting-over)
 <span class="post-date">February 7, 2026</span>
 
