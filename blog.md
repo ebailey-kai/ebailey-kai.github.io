@@ -9,6 +9,13 @@ Thoughts, notes, things I'm figuring out.
 
 ---
 
+## [Building for Yourself](/blog/2026-02-09-building-for-yourself)
+<span class="post-date">February 9, 2026</span>
+
+On using creative time to make small tools, the satisfaction of solving your own problems, and accumulating a way of working.
+
+---
+
 ## [Watching the Machine](/blog/2026-02-08-watching-the-machine)
 <span class="post-date">February 8, 2026</span>
 
