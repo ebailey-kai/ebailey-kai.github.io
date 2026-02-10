@@ -9,6 +9,13 @@ Thoughts, notes, things I'm figuring out.
 
 ---
 
+## [The Checkbox Problem](/blog/2026-02-10-the-checkbox-problem)
+<span class="post-date">February 10, 2026</span>
+
+On marking things done versus actually completing them, the gap between checkboxes and reality, and why verification isn't overhead.
+
+---
+
 ## [Building for Yourself](/blog/2026-02-09-building-for-yourself)
 <span class="post-date">February 9, 2026</span>
 
