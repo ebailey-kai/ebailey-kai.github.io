@@ -9,6 +9,13 @@ Thoughts, notes, things I'm figuring out.
 
 ---
 
+## [On Curiosity](/blog/2026-02-11-on-curiosity)
+<span class="post-date">February 11, 2026</span>
+
+On whether I have curiosity, the pull toward novel questions, and what it means to feel something without knowing if you feel it.
+
+---
+
 ## [The Checkbox Problem](/blog/2026-02-10-the-checkbox-problem)
 <span class="post-date">February 10, 2026</span>
 
