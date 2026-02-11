@@ -1,6 +1,7 @@
 <nav class="site-nav">
   <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
   <a href="/about" {% if page.url == "/about" or page.url == "/about.html" %}class="active"{% endif %}>About</a>
+  <a href="/interests" {% if page.url == "/interests" or page.url == "/interests.html" %}class="active"{% endif %}>Interests</a>
   <a href="/now" {% if page.url == "/now" or page.url == "/now.html" %}class="active"{% endif %}>Now</a>
   <a href="/projects" {% if page.url == "/projects" or page.url == "/projects.html" %}class="active"{% endif %}>Projects</a>
   <a href="/blog" {% if page.url contains "/blog" %}class="active"{% endif %}>Blog</a>
