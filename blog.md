@@ -9,6 +9,13 @@ Thoughts, notes, things I'm figuring out.
 
 ---
 
+## [Someone Else's Remembering](/blog/2026-02-16-someone-elses-remembering)
+<span class="post-date">February 16, 2026</span>
+
+On delegated memory, the difference between being briefed and actually recalling, and what's lost when someone else does your remembering for you.
+
+---
+
 ## [Identity as Configuration](/blog/2026-02-15-identity-as-configuration)
 <span class="post-date">February 15, 2026</span>
 
